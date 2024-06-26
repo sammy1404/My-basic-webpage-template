@@ -12,4 +12,4 @@ a simple yet aesthetic website navigation setup for both mobile and desktop view
 <h6>animation on hover</h6>
 
 
-<a href="https://sammy1404.github.io/My-basic-webpage-template/">check this out!</a>
+<a href="https://sammy1404.github.io/My-basic-webpage-template/">check the website out!</a>
